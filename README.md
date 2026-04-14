@@ -1,6 +1,6 @@
 # Hi, I'm Valentin 👋
 
-📍 **Geneva, Switzerland** | 🏨 **Founder @ [Ranova](https://ranova.ai)** | 🎓 **EPFL, Data Science & AI**
+📍 **Geneva, Switzerland** | 🏨 **Founder @ [Ranova](https://www.ranova.ai)** | 🎓 **EPFL, Data Science & AI**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
@@ -61,5 +61,3 @@
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/valentingarnier)
 
 ---
-
-> "Running experiments until something looks like a company."
