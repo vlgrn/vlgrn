@@ -22,6 +22,7 @@
 ![Chunking](https://img.shields.io/badge/-Chunking_Strategies-F97316?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/-Embeddings-8B5CF6?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6446?style=flat-square)
 ![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-10A37F?style=flat-square)
@@ -32,8 +33,10 @@
 ## What I'm Building
 
 - 🏨 **[Ranova](https://www.ranova.ai)** — AI-powered hotel review management across Booking, Google, TripAdvisor & Expedia. Backed by EHL, EPFL & HotellerieSuisse.
-- 🎯 **[SubSniper](https://github.com/valentingarnier/subsniper)** — macOS menu bar app that scans your email with AI to find forgotten subscriptions before they bill you.
 - 🩺 **[Adminds](https://github.com/valentingarnier/adminds)** — AI that drafts clinical reports for psychiatrists from session notes.
+- 🧩 **[RAG Freeride](https://github.com/valentingarnier/rag-freeride)** — Modular RAG reference stack: Qdrant vector store, on-prem HuggingFace embeddings, cross-encoder reranking, and a LangGraph agent wired to Claude. Swap any block without touching the others.
+- 👁️ **[Mini V-JEPA](https://github.com/valentingarnier/mini-vjepa)** — Minimal V-JEPA implementation from scratch in PyTorch. Self-supervised visual representation learning, stripped to the essentials.
+- 🎯 **[SubSniper](https://github.com/valentingarnier/subsniper)** — macOS menu bar app that scans your email with AI to find forgotten subscriptions before they bill you.
 - 🧠 **[YourClaw](https://www.yourclaw.dev)** — Personal AI assistant that lives in Telegram, WhatsApp & more. *(in progress)*
 - 📩 **[LinkedInbox](https://www.linkedinbox.co)** — Analytics for LinkedIn cold outreach — open rates, reply patterns, and what actually converts.
 - 🎛️ **[Mission Control](https://github.com/valentingarnier/missioncontrol)** — Native macOS kanban app powered by Claude Code. Chat in the terminal, the board updates live. Your AI task manager.
