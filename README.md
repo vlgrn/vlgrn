@@ -29,6 +29,12 @@
 ![Semantic Search](https://img.shields.io/badge/-Semantic_Search-0EA5E9?style=flat-square)
 ![Fine--tuning](https://img.shields.io/badge/-Fine--tuning-E11D48?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/-AI_Agents-F59E0B?style=flat-square)
+![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+
+### Certifications
+
+![Azure Developer Associate](https://img.shields.io/badge/-Microsoft_Certified:_Azure_Developer_Associate_(AZ--204)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/-Microsoft_Certified:_Azure_Fundamentals_(AZ--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ## What I'm Building
 
@@ -50,10 +56,6 @@
 - 🤖 **[Recommender System](https://github.com/valentingarnier/recommenderSystem-ML)** — Collaborative filtering and matrix factorization for movie recommendations.
 - ⚙️ **[Systems for Data Science](https://github.com/valentingarnier/SysDS_Milestone3)** — Distributed data processing pipeline in Scala.
 - 🎮 **[Computer Architecture](https://github.com/valentingarnier/Computer-Architecture)** — Pong on an FPGA board in VHDL/assembler.
-
-## GitHub Activity
-
-[![GitHub Contribution Graph](https://ghchart.rshah.org/valentingarnier)](https://github.com/valentingarnier)
 
 ## Connect
 
