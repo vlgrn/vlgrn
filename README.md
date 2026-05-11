@@ -34,6 +34,7 @@
 
 - 🏨 **[Ranova](https://www.ranova.ai)** — AI-powered hotel review management across Booking, Google, TripAdvisor & Expedia. Backed by EHL, EPFL & HotellerieSuisse.
 - 🩺 **[Adminds](https://github.com/valentingarnier/adminds)** — AI that drafts clinical reports for psychiatrists from session notes.
+- 📚 **[ClassAgent](https://github.com/valentingarnier/classagent)** — Live class co-pilot. Whisper transcribes the teacher in real time; a multi-agent orchestrator (handoffs + sessions on `openai-agents`) pins study cards — concepts, code, math, Mermaid diagrams — to the student's panel as the lecture unfolds.
 - 🧩 **[RAG Freeride](https://github.com/valentingarnier/rag-freeride)** — Modular RAG reference stack: Qdrant vector store, on-prem HuggingFace embeddings, cross-encoder reranking, and a LangGraph agent wired to Claude. Swap any block without touching the others.
 - 👁️ **[Mini V-JEPA](https://github.com/valentingarnier/mini-vjepa)** — Minimal V-JEPA implementation from scratch in PyTorch. Self-supervised visual representation learning, stripped to the essentials.
 - 🎯 **[SubSniper](https://github.com/valentingarnier/subsniper)** — macOS menu bar app that scans your email with AI to find forgotten subscriptions before they bill you.
