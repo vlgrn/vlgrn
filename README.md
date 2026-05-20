@@ -39,28 +39,29 @@
 ## What I'm Building
 
 - 🏨 **[Ranova](https://www.ranova.ai)** — AI-powered hotel review management across Booking, Google, TripAdvisor & Expedia. Backed by EHL, EPFL & HotellerieSuisse.
-- 🩺 **[Adminds](https://github.com/valentingarnier/adminds)** — AI that drafts clinical reports for psychiatrists from session notes.
-- 📚 **[ClassAgent](https://github.com/valentingarnier/classagent)** — Live class co-pilot. Whisper transcribes the teacher in real time; a multi-agent orchestrator (handoffs + sessions on `openai-agents`) pins study cards — concepts, code, math, Mermaid diagrams — to the student's panel as the lecture unfolds.
-- 🧩 **[RAG Freeride](https://github.com/valentingarnier/rag-freeride)** — Modular RAG reference stack: Qdrant vector store, on-prem HuggingFace embeddings, cross-encoder reranking, and a LangGraph agent wired to Claude. Swap any block without touching the others.
-- 👁️ **[Mini V-JEPA](https://github.com/valentingarnier/mini-vjepa)** — Minimal V-JEPA implementation from scratch in PyTorch. Self-supervised visual representation learning, stripped to the essentials.
-- 🎯 **[SubSniper](https://github.com/valentingarnier/subsniper)** — macOS menu bar app that scans your email with AI to find forgotten subscriptions before they bill you.
+- 🩺 **[Adminds](https://github.com/vlgrn/adminds)** — AI that drafts clinical reports for psychiatrists from session notes.
+- 🎧 **[wooz](https://github.com/vlgrn/wooz)** — AI DJ for your terminal. Reads what you're working on and plays the Spotify track that fits the vibe. Steer it by chat.
+- 📚 **[ClassAgent](https://github.com/vlgrn/classagent)** — Live class co-pilot. Whisper transcribes the teacher in real time; a multi-agent orchestrator (handoffs + sessions on `openai-agents`) pins study cards — concepts, code, math, Mermaid diagrams — to the student's panel as the lecture unfolds.
+- 🧩 **[RAG Freeride](https://github.com/vlgrn/rag-freeride)** — Modular RAG reference stack: Qdrant vector store, on-prem HuggingFace embeddings, cross-encoder reranking, and a LangGraph agent wired to Claude. Swap any block without touching the others.
+- 👁️ **[Mini V-JEPA](https://github.com/vlgrn/mini-vjepa)** — Minimal V-JEPA implementation from scratch in PyTorch. Self-supervised visual representation learning, stripped to the essentials.
+- 🎯 **[SubSniper](https://github.com/vlgrn/subsniper)** — macOS menu bar app that scans your email with AI to find forgotten subscriptions before they bill you.
 - 🧠 **[YourClaw](https://www.yourclaw.dev)** — Personal AI assistant that lives in Telegram, WhatsApp & more. *(in progress)*
 - 📩 **[LinkedInbox](https://www.linkedinbox.co)** — Analytics for LinkedIn cold outreach — open rates, reply patterns, and what actually converts.
-- 🎛️ **[Mission Control](https://github.com/valentingarnier/missioncontrol)** — Native macOS kanban app powered by Claude Code. Chat in the terminal, the board updates live. Your AI task manager.
+- 🎛️ **[Mission Control](https://github.com/vlgrn/missioncontrol)** — Native macOS kanban app powered by Claude Code. Chat in the terminal, the board updates live. Your AI task manager.
 
 ## Old EPFL Projects
 
-- ✈️ **[Travel Patterns](https://valentingarnier.github.io/)** — Predicting home locations from global flight data. ML model hits 80.4% accuracy on continent prediction.
-- 📡 **[Signal Reconstruction](https://github.com/valentingarnier/pdc_project)** — Probabilistic decoding to recover clean signals from noisy channels.
-- 🎵 **[Billboard NLP](https://github.com/valentingarnier/billboard)** — NLP analysis of 65 years of Billboard #1 hits to find what makes a chart-topper.
-- 🤖 **[Recommender System](https://github.com/valentingarnier/recommenderSystem-ML)** — Collaborative filtering and matrix factorization for movie recommendations.
-- ⚙️ **[Systems for Data Science](https://github.com/valentingarnier/SysDS_Milestone3)** — Distributed data processing pipeline in Scala.
-- 🎮 **[Computer Architecture](https://github.com/valentingarnier/Computer-Architecture)** — Pong on an FPGA board in VHDL/assembler.
+- ✈️ **[Travel Patterns](https://vlgrn.github.io/)** — Predicting home locations from global flight data. ML model hits 80.4% accuracy on continent prediction.
+- 📡 **[Signal Reconstruction](https://github.com/vlgrn/pdc_project)** — Probabilistic decoding to recover clean signals from noisy channels.
+- 🎵 **[Billboard NLP](https://github.com/vlgrn/billboard)** — NLP analysis of 65 years of Billboard #1 hits to find what makes a chart-topper.
+- 🤖 **[Recommender System](https://github.com/vlgrn/recommenderSystem-ML)** — Collaborative filtering and matrix factorization for movie recommendations.
+- ⚙️ **[Systems for Data Science](https://github.com/vlgrn/SysDS_Milestone3)** — Distributed data processing pipeline in Scala.
+- 🎮 **[Computer Architecture](https://github.com/vlgrn/Computer-Architecture)** — Pong on an FPGA board in VHDL/assembler.
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Valentin_Garnier-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentingarnier90/)
 [![Website](https://img.shields.io/badge/-ranova.ai-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.ranova.ai)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/valentingarnier)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vlgrn)
 
 ---
