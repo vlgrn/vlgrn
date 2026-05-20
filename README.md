@@ -1,6 +1,6 @@
-# Hi, I'm Valentin 👋
+# Welcome
 
-📍 **Geneva, Switzerland** | 🏨 **Founder @ [Ranova](https://www.ranova.ai)** | 🎓 **EPFL, Data Science & AI**
+📍 **Geneva, Switzerland** | 🏨 **Founder @ [Ranova](https://www.ranova.ai)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
@@ -48,7 +48,7 @@
 - 📩 **[LinkedInbox](https://www.linkedinbox.co)** — Analytics for LinkedIn cold outreach — open rates, reply patterns, and what actually converts.
 - 🎛️ **[Mission Control](https://github.com/valentingarnier/missioncontrol)** — Native macOS kanban app powered by Claude Code. Chat in the terminal, the board updates live. Your AI task manager.
 
-## EPFL Projects
+## Old EPFL Projects
 
 - ✈️ **[Travel Patterns](https://valentingarnier.github.io/)** — Predicting home locations from global flight data. ML model hits 80.4% accuracy on continent prediction.
 - 📡 **[Signal Reconstruction](https://github.com/valentingarnier/pdc_project)** — Probabilistic decoding to recover clean signals from noisy channels.
